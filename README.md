@@ -61,10 +61,29 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+
+allows for middleware - helps with responding to http request
+uses javascript - dont have to worry about learning a new language
+
 1. Understand and explain the use of Middleware?
+
+allows for handling of http requests
+
 1. The basic principles of the REST architectural style.
+
+CRUD
+Create
+Read
+Update
+Delete
+
 1. Understand and explain the use of Express Routers.
+
+helps maintain organization and simplify handling request
+
 1. Describe tooling used to manually test the correctness of an API.
+
+pretty much a tool where you can manually input your http request to the api and verify your api is correctly working with the database
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
